@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box-one {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: lightgray;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(77, 151, 211);
+    display: inline-block;
+    margin: 25px;
+    
+}
+
+.box-two {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+
+.box-two p {
+    width: 90%;
+    text-align: center;
+    font-size: 2em;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.box-three {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: rgb(31, 183, 243)
+}
+
+.box-four {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: rgb(81, 235, 235)
+}
+
+.box-five {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: rgb(183, 238, 172)
+}
+
+.box-six {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: yellow
+}
